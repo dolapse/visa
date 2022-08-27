@@ -2,4 +2,6 @@
 simon
 peter
 paul
+chi chi
+tomi
 
